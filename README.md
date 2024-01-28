@@ -1,20 +1,19 @@
-#ZCM YT
-Discord Verify Button System\n
+<p><strong>Discord Verify Button System</strong></p>
 
+<p><strong>How To Use</strong> :</p>
+<ol>
+  <li>Download The Code</li>
+  <li>Open Cmd on Folder</li>
+  <li>Type <code>pip install discord.py</code></li>
+  <li>Open The Code and Config it</li>
+  <li>Run it</li>
+</ol>
 
-**How To Use** :\n
-1 - Download The Code\n
-2 - Open Cmd on Folder\n
-3 - Type ```pip install discord.py```\n
-4 - Open The Code and Config it \n
-5 - run it
+<p><strong>Youtube</strong></p>
+<p><a href="https://youtu.be/rLvTZ7qzX94">See The Video</a></p>
 
-**Youtube**\n
-[See The Video](https://youtu.be/rLvTZ7qzX94)
+<p><strong>Image</strong></p>
+<p><img src="https://github.com/ICE-TOOLS/VerifySystem/assets/103214770/27440141-d6dc-4dcb-9b30-96102df45ccc" alt="image"></p>
 
-**Image**\n
-![image](https://github.com/ICE-TOOLS/VerifySystem/assets/103214770/27440141-d6dc-4dcb-9b30-96102df45ccc)
-
-
-**Discord**\n
-[Join Me](https://discord.gg/Drxz238Wcb/)
+<p><strong>Discord</strong></p>
+<p><a href="https://discord.gg/Drxz238Wcb/">Join Me</a></p>
