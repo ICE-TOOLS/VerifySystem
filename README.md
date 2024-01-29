@@ -10,7 +10,7 @@
 </ol>
 
 <p><strong>Youtube</strong></p>
-<p><a href="https://youtu.be/rLvTZ7qzX94">See The Video</a></p>
+<p><a href="https://youtu.be/8_bzdr4rMoo">See The Video</a></p>
 
 <p><strong>Image</strong></p>
 <p><img src="https://github.com/ICE-TOOLS/VerifySystem/assets/103214770/27440141-d6dc-4dcb-9b30-96102df45ccc" alt="image"></p>
